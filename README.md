@@ -1,5 +1,5 @@
 # face2face
-A software which takes images of two people and can takes the expressions of person in 1st photo and mimics the same expression in the 2nd image.
+A software which takes images of two people in real time and can take the expressions of person in 1st photo and mimics the same expression in the 2nd image.
 We will provide a dataset to the machine so that the machine learns to distinguish between different expressions. 
 
 In this software the machine learns from the facial landmarks and translates onto a face model. 
